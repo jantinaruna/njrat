@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/njrat.Client/njrat.Client.csproj" />
+    <Project Path="src/njrat.Panel/njrat.Panel.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/njrat.Client.Tests/njrat.Client.Tests.csproj" />
+  </Folder>
+</Solution>
